@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749177357260",
+    "project_id": "mobile-1deaf",
+    "storage_bucket": "mobile-1deaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749177357260:android:c517e4d7878620ad559369",
+        "android_client_info": {
+          "package_name": "net.fluttertutorial.flutter_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749177357260-l3ur79kh443hp9pb5u3sb8n1dghphqd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehJsnyVrYAEM8eskqpjYDsIjw0-RrlGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749177357260-l3ur79kh443hp9pb5u3sb8n1dghphqd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
