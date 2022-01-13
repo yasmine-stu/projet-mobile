@@ -57,9 +57,15 @@ class _SplashScreenState extends State<SplashScreen> {
             width: 140.0,
             child: Center(
               
-              child: ClipOval(
-                  child: Icon(Icons.medical_services_outlined, size: 128,), 
-              ),
+//               child: ClipOval(
+//                   child: Icon(Icons.medical_services_outlined, size: 128,), 
+//               ),
+              CircleAvatar(
+                            backgroundImage:
+                                const AssetImage('assets/logoo.png'),
+                            radius: 70,
+                            backgroundColor: Colors.white,
+                          ),
               
             ),
             decoration: BoxDecoration(
